@@ -15,7 +15,7 @@ sidebar:
     email: ilto.vasiliy@gmail.com
     phone: 095 219 92 13
     website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
+    linkedin: vasiliy-ilto
     github: vasiliy-ilto
     gitlab:
     bitbucket:
@@ -26,13 +26,10 @@ sidebar:
 
     languages:
       - idiom: English
+        level: Intermediate
+
+      - idiom: Ukraine
         level: Native
-
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
 
     interests:
       - item: Climbing
