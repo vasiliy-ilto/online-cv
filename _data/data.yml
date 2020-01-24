@@ -165,22 +165,22 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Software Testing (Web, Mobile, API, Desktop)
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Selenium WebDriver
+        level: 90%
 
-      - name: Sketch & Photoshop
+      - name: Appium
+        level: 75%
+
+      - name: Java
+        level: 65%
+
+      - name: TestNG / jUnit
+        level: 60%
+
+      - name: Maven / Gradle
         level: 60%
 
 footer: >
